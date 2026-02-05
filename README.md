@@ -1,4 +1,4 @@
-#  Power BI Shopping Behaviour Analysis
+# Power BI Shopping Behaviour Analysis
 
 ## 🚀 Project Overview
 This Power BI project provides a comprehensive, interactive 5-page report that analyzes customer shopping behavior. Unlike static reporting, this solution utilizes a dynamic data model to identify spending patterns, product performance, and high-value customer segments through advanced filtering and drill-down capabilities.
