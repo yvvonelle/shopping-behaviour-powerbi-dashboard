@@ -22,6 +22,7 @@ The project follows a clean BI workflow:
 **Goal:** Establish a baseline of "Who" the customers are.
 * **Visuals:** Total Customer Cards, Gender Distribution (Donut), Age Bracket Analysis (Bar), and Geographic Location (Map/Bar).
 * **Key Insight:** Identify the primary demographic segments and subscription penetration.
+  - < a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Demographics </a>
 
 ### PAGE 2: Spending Behavior Dashboard
 **Goal:** Quantify the financial impact of different segments.
