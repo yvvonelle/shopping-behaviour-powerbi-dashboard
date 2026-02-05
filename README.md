@@ -21,6 +21,7 @@ The project follows a clean BI workflow:
 ### Page 1: Sales Performance Overview
 * **Key Visuals:** Seasonal Trend Lines, Revenue by Size (Tree Map), and Category Performance (Bar Charts).
 * **Business Insight:** Identifies peak shopping windows and high-moving inventory.
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Demographics </a>
 
 ### Page 2: Customer Demographics & Spending
 * **Key Visuals:** Age Distribution Histograms, Spending Tier Clustered Columns.
