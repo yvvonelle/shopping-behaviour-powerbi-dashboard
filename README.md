@@ -18,26 +18,30 @@ The project follows a clean BI workflow:
 
 ## Report Pages & Interactive Features
 
-### Page 1: Sales Performance Overview
-* **Key Visuals:** Seasonal Trend Lines, Revenue by Size (Tree Map), and Category Performance (Bar Charts).
-* **Business Insight:** Identifies peak shopping windows and high-moving inventory.
-- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Demographics </a>
+### PAGE 1: Customer Overview Dashboard
+**Goal:** Establish a baseline of "Who" the customers are.
+* **Visuals:** Total Customer Cards, Gender Distribution (Donut), Age Bracket Analysis (Bar), and Geographic Location (Map/Bar).
+* **Key Insight:** Identify the primary demographic segments and subscription penetration.
 
-### Page 2: Customer Demographics & Spending
-* **Key Visuals:** Age Distribution Histograms, Spending Tier Clustered Columns.
-* **Business Insight:** Pinpoints which age cohorts drive the highest transaction values.
+### PAGE 2: Spending Behavior Dashboard
+**Goal:** Quantify the financial impact of different segments.
+* **Visuals:** Total Revenue & AOV Cards, Seasonal Spending (Column), and Spending Tier Distribution (Bar).
+* **Key Insight:** Pinpoint which seasons and age groups drive the highest total revenue.
 
-### Page 3: Customer Behavior Insights
-* **Key Visuals:** Frequency Tier Pie Chart, Loyalty vs. Spend Scatter Plot.
-* **Business Insight:** Segments the audience into *Loyal, Frequent, Occasional,* and *Rare* groups to inform retention strategies.
+### PAGE 3: Loyalty & Purchase Frequency
+**Goal:** Analyze customer retention and return patterns.
+* **Visuals:** Frequency Tier Distribution (Bar), Average Spend by Frequency (Column), and Purchase Frequency granularity (Donut).
+* **Key Insight:** Determine if "Loyal" customers actually spend more per transaction than "Occasional" shoppers.
 
-### Page 4: Product Preference Analysis
-* **Key Visuals:** Category by Age Group Heatmaps, Color & Size Matrix.
-* **Business Insight:** Supports supply chain decisions by highlighting specific product attribute preferences.
+### PAGE 4: Product Insights
+**Goal:** Optimize inventory and marketing by product type.
+* **Visuals:** Top 10 Items Purchased (N-Filter Bar Chart), Category Performance, and Size/Color Preference Donut Charts.
+* **Key Insight:** Identify "Hero Products" and customer style preferences to guide stocking strategies.
 
-### Page 5: Customer Value & Segmentation
-* **Key Visuals:** Subscription Status Comparison, Discount Usage Impact Analysis.
-* **Business Insight:** Analyzes the ROI of discounts and the value of subscribed vs. non-subscribed customers.
+### PAGE 5: Discounts & Payments
+**Goal:** Understand financial friction and incentive effectiveness.
+* **Visuals:** Discount Usage (Donut), Payment Method Popularity (Bar), and Revenue by Payment Method (Column).
+* **Key Insight:** Analyze if specific payment methods correlate with higher spending or if discounts successfully drive transaction volume.
 
 ---
 
