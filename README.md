@@ -22,27 +22,32 @@ The project follows a clean BI workflow:
 **Goal:** Establish a baseline of "Who" the customers are.
 * **Visuals:** Total Customer Cards, Gender Distribution (Donut), Age Bracket Analysis (Bar), and Geographic Location (Map/Bar).
 * **Key Insight:** Identify the primary demographic segments and subscription penetration.
-  - <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Demographics </a>
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Demographics </a>
 
 ### PAGE 2: Spending Behavior Dashboard
 **Goal:** Quantify the financial impact of different segments.
 * **Visuals:** Total Revenue & AOV Cards, Seasonal Spending (Column), and Spending Tier Distribution (Bar).
 * **Key Insight:** Pinpoint which seasons and age groups drive the highest total revenue.
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Spending Behaviour </a>
 
 ### PAGE 3: Loyalty & Purchase Frequency
 **Goal:** Analyze customer retention and return patterns.
 * **Visuals:** Frequency Tier Distribution (Bar), Average Spend by Frequency (Column), and Purchase Frequency granularity (Donut).
-* **Key Insight:** Determine if "Loyal" customers actually spend more per transaction than "Occasional" shoppers.
+* **Key Insight:** Determine if "Loyal" customers actually spend more per transaction than "Occasional" shopper.
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Loyalty </a>
 
 ### PAGE 4: Product Insights
 **Goal:** Optimize inventory and marketing by product type.
 * **Visuals:** Top 10 Items Purchased (N-Filter Bar Chart), Category Performance, and Size/Color Preference Donut Charts.
 * **Key Insight:** Identify "Hero Products" and customer style preferences to guide stocking strategies.
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Product Insights </a>
 
 ### PAGE 5: Discounts & Payments
 **Goal:** Understand financial friction and incentive effectiveness.
 * **Visuals:** Discount Usage (Donut), Payment Method Popularity (Bar), and Revenue by Payment Method (Column).
 * **Key Insight:** Analyze if specific payment methods correlate with higher spending or if discounts successfully drive transaction volume.
+
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Discounts and Payments </a>
 
 ---
 
