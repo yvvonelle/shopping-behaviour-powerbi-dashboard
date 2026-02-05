@@ -28,7 +28,7 @@ The project follows a clean BI workflow:
 **Goal:** Quantify the financial impact of different segments.
 * **Visuals:** Total Revenue & AOV Cards, Seasonal Spending (Column), and Spending Tier Distribution (Bar).
 * **Key Insight:** Pinpoint which seasons and age groups drive the highest total revenue.
-- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Spending Behaviour </a>
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/spending%20behaviour.png"> Spending Behaviour </a>
 
 ### PAGE 3: Loyalty & Purchase Frequency
 **Goal:** Analyze customer retention and return patterns.
