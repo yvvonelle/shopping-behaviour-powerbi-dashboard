@@ -40,7 +40,7 @@ The project follows a clean BI workflow:
 **Goal:** Optimize inventory and marketing by product type.
 * **Visuals:** Top 10 Items Purchased (N-Filter Bar Chart), Category Performance, and Size/Color Preference Donut Charts.
 * **Key Insight:** Identify "Hero Products" and customer style preferences to guide stocking strategies.
-- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Product Insights </a>
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/product%20insights.png"> Product Insights </a>
 
 ### PAGE 5: Discounts & Payments
 **Goal:** Understand financial friction and incentive effectiveness.
