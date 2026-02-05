@@ -34,7 +34,7 @@ The project follows a clean BI workflow:
 **Goal:** Analyze customer retention and return patterns.
 * **Visuals:** Frequency Tier Distribution (Bar), Average Spend by Frequency (Column), and Purchase Frequency granularity (Donut).
 * **Key Insight:** Determine if "Loyal" customers actually spend more per transaction than "Occasional" shopper.
-- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20demographics.png"> Customer Loyalty </a>
+- <a href = "https://github.com/yvvonelle/shopping-behaviour-powerbi-dashboard/blob/main/customer%20loyalty.png"> Customer Loyalty </a>
 
 ### PAGE 4: Product Insights
 **Goal:** Optimize inventory and marketing by product type.
